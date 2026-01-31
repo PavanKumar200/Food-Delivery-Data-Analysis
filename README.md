@@ -46,7 +46,7 @@ The analysis combines data from three different sources:
 ## 🚀 How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR-USERNAME/Food-Delivery-Data-Analysis.git](https://github.com/YOUR-USERNAME/Food-Delivery-Data-Analysis.git)
+    git clone [https://github.com/PavanKumar200/Food-Delivery-Data-Analysis.git](https://github.com/PavanKumar200/Food-Delivery-Data-Analysis.git)
     ```
 2.  Install required libraries:
     ```bash
@@ -59,5 +59,5 @@ The analysis combines data from three different sources:
 4.  Run all cells to see the data processing and analysis results.
 
 ## 📝 Author
-* **Pavankumar S**
+* **Pavan Kumar**
 * *Submitted for the Data Analysis Hackathon*
